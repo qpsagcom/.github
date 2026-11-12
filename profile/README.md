@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/qpsagcom/.github/main/profile/assets/banner.png" alt="QPS Engineering AG – Engineering what life science needs next." width="100%">
 </p>
 
-<h1 align="center">QPS Engineering AG</h1>
-
 <p align="center">
   <a href="https://qpsag.com">Website</a> ·
   <a href="https://shop.qpsag.com">Shop</a> ·
@@ -35,8 +33,8 @@ and is therefore not public.
 
 ## Contact
 
-**QPS Engineering AG**
-Schaffhauserstrasse 30, 4332 Stein, Switzerland
+**QPS Engineering AG**<br>
+Schaffhauserstrasse 30, 4332 Stein, Switzerland<br>
 +41 56 281 91 14 · [info@qpsag.com](mailto:info@qpsag.com) · [qpsag.com](https://qpsag.com)
 
 To report a security issue, see our [security policy](https://github.com/qpsagcom/.github/blob/main/SECURITY.md).
